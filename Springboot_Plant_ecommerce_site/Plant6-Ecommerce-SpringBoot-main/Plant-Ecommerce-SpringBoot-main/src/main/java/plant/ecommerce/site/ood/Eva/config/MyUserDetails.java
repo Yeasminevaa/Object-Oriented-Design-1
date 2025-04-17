@@ -1,6 +1,6 @@
-package plant.ecommerce.site.ood.zerin.config;
+package plant.ecommerce.site.ood.eva.config;
 
-import plant.ecommerce.site.ood.zerin.model.User;
+import plant.ecommerce.site.ood.eva.model.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
