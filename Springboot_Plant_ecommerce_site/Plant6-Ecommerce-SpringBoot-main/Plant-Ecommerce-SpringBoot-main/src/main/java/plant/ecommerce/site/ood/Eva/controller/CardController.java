@@ -1,7 +1,7 @@
-package plant.ecommerce.site.ood.zerin.controller;
+package plant.ecommerce.site.ood.eva.controller;
 
-import plant.ecommerce.site.ood.zerin.model.Card;
-import plant.ecommerce.site.ood.zerin.model.Plant;
+import plant.ecommerce.site.ood.eva.model.Card;
+import plant.ecommerce.site.ood.eva.model.Plant;
 import plant.ecommerce.site.ood.zerin.model.User;
 import plant.ecommerce.site.ood.zerin.service.CardService;
 import plant.ecommerce.site.ood.zerin.service.PlantService;
