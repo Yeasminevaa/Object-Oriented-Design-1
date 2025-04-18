@@ -1,6 +1,6 @@
-package plant.ecommerce.site.ood.zerin.repository;
+package plant.ecommerce.site.ood.eva.repository;
 
-import plant.ecommerce.site.ood.zerin.model.Orders;
+import plant.ecommerce.site.ood.eva.model.Orders;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
