@@ -1,6 +1,6 @@
-package plant.ecommerce.site.ood.zerin.repository;
+package plant.ecommerce.site.ood.eva.repository;
 
-import plant.ecommerce.site.ood.zerin.model.User;
+import plant.ecommerce.site.ood.eva.model.User;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.query.Param;
