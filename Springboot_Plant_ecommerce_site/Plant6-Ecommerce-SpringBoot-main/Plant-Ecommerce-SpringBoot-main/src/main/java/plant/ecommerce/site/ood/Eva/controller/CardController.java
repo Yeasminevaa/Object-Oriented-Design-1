@@ -2,10 +2,10 @@ package plant.ecommerce.site.ood.eva.controller;
 
 import plant.ecommerce.site.ood.eva.model.Card;
 import plant.ecommerce.site.ood.eva.model.Plant;
-import plant.ecommerce.site.ood.zerin.model.User;
-import plant.ecommerce.site.ood.zerin.service.CardService;
-import plant.ecommerce.site.ood.zerin.service.PlantService;
-import plant.ecommerce.site.ood.zerin.service.UserDetailsServiceImplement;
+import plant.ecommerce.site.ood.eva.model.User;
+import plant.ecommerce.site.ood.eva.service.CardService;
+import plant.ecommerce.site.ood.eva.service.PlantService;
+import plant.ecommerce.site.ood.eva.service.UserDetailsServiceImplement;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
