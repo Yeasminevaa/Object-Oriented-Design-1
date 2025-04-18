@@ -1,8 +1,8 @@
-package plant.ecommerce.site.ood.zerin.service;
+package plant.ecommerce.site.ood.eva.service;
 
-import plant.ecommerce.site.ood.zerin.config.MyUserDetails;
-import plant.ecommerce.site.ood.zerin.model.User;
-import plant.ecommerce.site.ood.zerin.repository.UserRepository;
+import plant.ecommerce.site.ood.eva.config.MyUserDetails;
+import plant.ecommerce.site.ood.eva.model.User;
+import plant.ecommerce.site.ood.eva.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
