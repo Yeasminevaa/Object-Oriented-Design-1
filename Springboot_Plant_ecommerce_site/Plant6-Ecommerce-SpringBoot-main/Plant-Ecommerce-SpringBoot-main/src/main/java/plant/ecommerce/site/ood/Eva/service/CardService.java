@@ -1,9 +1,9 @@
-package plant.ecommerce.site.ood.zerin.service;
+package plant.ecommerce.site.ood.eva.service;
 
-import plant.ecommerce.site.ood.zerin.model.Card;
-import plant.ecommerce.site.ood.zerin.model.Plant;
-import plant.ecommerce.site.ood.zerin.model.User;
-import plant.ecommerce.site.ood.zerin.repository.CardRepository;
+import plant.ecommerce.site.ood.eva.model.Card;
+import plant.ecommerce.site.ood.eva.model.Plant;
+import plant.ecommerce.site.ood.eva.model.User;
+import plant.ecommerce.site.ood.eva.repository.CardRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
