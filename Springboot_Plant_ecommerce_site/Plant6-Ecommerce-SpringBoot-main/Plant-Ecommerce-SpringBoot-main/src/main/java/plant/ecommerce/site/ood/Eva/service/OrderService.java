@@ -1,7 +1,7 @@
-package plant.ecommerce.site.ood.zerin.service;
+package plant.ecommerce.site.ood.eva.service;
 
-import plant.ecommerce.site.ood.zerin.model.Orders;
-import plant.ecommerce.site.ood.zerin.repository.OrderRepository;
+import plant.ecommerce.site.ood.eva.model.Orders;
+import plant.ecommerce.site.ood.eva.repository.OrderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
