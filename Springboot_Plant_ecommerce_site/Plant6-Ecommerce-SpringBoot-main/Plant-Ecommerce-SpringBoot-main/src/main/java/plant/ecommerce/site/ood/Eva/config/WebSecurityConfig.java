@@ -1,6 +1,6 @@
-package plant.ecommerce.site.ood.zerin.config;
+package plant.ecommerce.site.ood.eva.config;
 
-import plant.ecommerce.site.ood.zerin.service.UserDetailsServiceImplement;
+import plant.ecommerce.site.ood.eva.service.UserDetailsServiceImplement;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.dao.DaoAuthenticationProvider;
