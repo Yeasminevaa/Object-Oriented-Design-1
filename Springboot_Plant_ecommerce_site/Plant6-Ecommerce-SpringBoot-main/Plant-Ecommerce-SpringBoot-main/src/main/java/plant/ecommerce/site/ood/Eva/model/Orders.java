@@ -1,4 +1,4 @@
-package plant.ecommerce.site.ood.zerin.model;
+package plant.ecommerce.site.ood.eva.model;
 
 import javax.persistence.*;
 import java.util.Date;
