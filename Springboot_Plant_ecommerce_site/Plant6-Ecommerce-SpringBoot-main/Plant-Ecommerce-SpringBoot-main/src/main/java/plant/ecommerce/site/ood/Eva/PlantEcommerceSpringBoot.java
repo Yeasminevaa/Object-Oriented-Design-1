@@ -1,4 +1,4 @@
-package plant.ecommerce.site.ood.zerin;
+package plant.ecommerce.site.ood.eva;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
