@@ -1,7 +1,7 @@
-package plant.ecommerce.site.ood.zerin.controller;
+package plant.ecommerce.site.ood.eva.controller;
 
-import plant.ecommerce.site.ood.zerin.model.Plant;
-import plant.ecommerce.site.ood.zerin.service.PlantService;
+import plant.ecommerce.site.ood.eva.model.Plant;
+import plant.ecommerce.site.ood.eva.service.PlantService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
